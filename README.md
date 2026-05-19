@@ -11,7 +11,7 @@
 | **Type Document** | Repository Overzicht |
 | **Toegang** | [Online Bekijken](https://icw-rcz.github.io/OverZichtLessen/) |
 
----
+
 
 ## Beschrijving
 
@@ -19,7 +19,7 @@ In deze repository vindt u een gestructureerd overzicht van het vak <mark>Progra
 
 Dit overzicht dient als centraal referentiepunt voor de verschillende modules en leertrajecten binnen het vakgebied.
 
----
+
 
 ## Modules & Inhoud
 
