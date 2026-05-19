@@ -1,6 +1,6 @@
 # Overzicht: Modules voor de richting Informatica & Communicatiewetenschappen
 
-## 📋 Algemene Informatie
+## Algemene Informatie
 
 | Kenmerk | Details |
 | :--- | :--- |
