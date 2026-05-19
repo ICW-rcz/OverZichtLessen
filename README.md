@@ -15,7 +15,7 @@
 
 ## Beschrijving
 
-In deze repository vindt u een gestructureerd overzicht van het vak ==Programmeren & Databanken==, aangeboden binnen de richting ==Informatica & Communicatiewetenschappen== aan de ==Richtpunt campus Ninove Zottegem==. 
+In deze repository vindt u een gestructureerd overzicht van het vak <mark>Programmeren & Databanken<mark>, aangeboden binnen de richting ==Informatica & Communicatiewetenschappen== aan de ==Richtpunt campus Ninove Zottegem==. 
 
 Dit overzicht dient als centraal referentiepunt voor de verschillende modules en leertrajecten binnen het vakgebied.
 
