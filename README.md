@@ -1,4 +1,5 @@
-# Overzicht: Modules voor de richting Informatica & Communicatiewetenschappen
+# Overzicht
+# Modules voor de richting Informatica & Communicatiewetenschappen
 
 ## Algemene Informatie
 
