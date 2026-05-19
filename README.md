@@ -1,5 +1,4 @@
-# Overzicht
-# Modules voor de richting Informatica & Communicatiewetenschappen
+# Overzicht Modules ICW
 
 ## Algemene Informatie
 
